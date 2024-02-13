@@ -1,4 +1,4 @@
-# Predecting-Hotel-Rating
+# Predecting Hotel Rating
 
 ## Overview 
 
@@ -6,4 +6,4 @@ this project presents a comprehensive approach towards understanding and leverag
 
 This project promises valuable insights for various stakeholders in the hospitality and travel sector, including hoteliers, online travel agencies, and travelers, by enhancing service offerings and making informed accommodation choices.
 
-For the source of the dataset related to this project, please go to [Source of the dataset]([https://www.google.com/](https://www.kaggle.com/competitions/open-problems-multimodal/data)https://www.kaggle.com/competitions/open-problems-multimodal/data](https://zenodo.org/records/1219899#.YHwt1J_ivIU)https://zenodo.org/records/1219899#.YHwt1J_ivIU).
+For the source of the dataset related to this project, please go to [Source of the dataset](https://zenodo.org/records/1219899#.YHwt1J_ivIU).
